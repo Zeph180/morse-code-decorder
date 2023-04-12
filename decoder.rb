@@ -12,7 +12,7 @@ MORSE_CODE = {
 def my_decoder(morse_code)
   words = morse_code.split('   ')
   decoded_words = words.map do |word|
-    letters = word.split(' ')
+    letters = word.split
     puts letters
     decoded_letters = letters.map do |letter|
       MORSE_CODE[letter]
