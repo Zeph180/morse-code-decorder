@@ -22,4 +22,4 @@ def my_decoder(morse_code)
   decoded_words.join(' ')
 end
 
-puts my_decoder('- .... .. ...   .. ...   .-. .- ..- ... .')
+puts my_decoder('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
