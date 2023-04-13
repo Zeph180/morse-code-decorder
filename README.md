@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3><b>BOOK STORE</b></h3>
+  <h3><b>MORSE CODE DECODER </b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -32,7 +32,7 @@
 
 # 📖 Book store <a name="about-project"></a>
 
-**Book store** Book store is a simple project built with react and redux that enable users to add books to the list
+**Book store** Morse code decoder is a simple project built with ruby. It takes a string of morse code and converts it to english.
  <br>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -42,7 +42,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="">Ruby</a></li>
   </ul>
 </details>
 
@@ -50,19 +50,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **List  books**
-- **Add books**
-- **Remove books**
+- **Convert morse code** - This project takes a string of morse code and converts it to english.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming soon
-
-<!-- - [Live Demo Link](https://yourdeployedapplicationlink.com) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +94,7 @@ Example command:
 
 ```sh
   cd my-project
-  npm install
+  bundle install
 ```
 -
 
@@ -114,7 +106,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-  npm start
+  Press run code button on your IDE
 ```
 -
 
@@ -122,25 +114,11 @@ Example command:
 
 To run tests, run the following command:
 
-
 Example command:
 
 ```sh
-  npm run test
+  rspec
 ```
--
-
-### Deployment
-
-- Coming soon
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
