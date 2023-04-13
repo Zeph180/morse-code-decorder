@@ -130,7 +130,12 @@ Example command:
 
 - GitHub: [zeph180](https://github.com/zeph180)
 - Twitter: [richards_zeph](https://twitter.com/richards_zeph)
-- LinkedIn: [Kigozi Joseph Suubi](https://linkedin.com/in/kigozi-joseph-suubi-19073a198)
+- LinkedIn: [Kigozi Joseph Suubi](https://linkedin.com/in/kigozi-joseph-suubi)
+
+👤 **Author2**
+
+- GitHub: [Crispin](https://github.com/Bigizi)
+- LinkedIn: [Bigizi Nduwayo Crispin](https://www.linkedin.com/in/bigizi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
